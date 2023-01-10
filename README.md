@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Programador_em_Desenvolvimento-red"></p>
+
 # Passos para configuração do git <> github.
 
 ### Para iniciar a instalação e configuração do GitHub em seu equipamento por meio de SSH (Secure Socket Shell).
